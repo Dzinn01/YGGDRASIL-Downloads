@@ -25,3 +25,8 @@ Godot e Blender não precisam estar instalados. O ZIP inclui instruções, créd
 Cinco armas, seis deuses, 34 relíquias, Elites com armadura separada, novas composições de encontro e armadilhas. Câmera mais próxima, barras mais legíveis e acabamento dos ataques com texturas, dissolução, rastros, poeira, fraturas e estilhaços.
 
 Detalhes e resultados dos testes estão nas notas da versão e na documentação dentro do ZIP.
+
+
+## Android — versão de teste
+
+[Baixar APK para Android](https://github.com/Dzinn01/YGGDRASIL-Downloads/releases/tag/v6.6-android.1). Galaxy A34 usado como referência: tela em paisagem, controles por toque e modos Alto, Equilibrado e Economia. Instale Yggdrasil.apk. Leia LEIA-ME-ANDROID.txt. O teste no A34 físico e a medição de FPS ainda estão pendentes.
