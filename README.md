@@ -45,7 +45,9 @@ Atualização de 23/10/2026:
 - Correções de áudio de combate, quebra de Armadura dos Elites e retorno dos menus
   estão no código da V7.3.
 - Animações externas gratuitas estão sendo adaptadas aos esqueletos existentes.
-  A orientação das armas e a naturalidade dos movimentos ainda passam por revisão.
+  Os soldados de espada de Midgard, Helheim e Muspelheim receberam correções de
+  pegada e movimento, testadas numa jornada pelos cinco reinos. Guardas e outros
+  humanoides ainda passam por revisão individual.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
 
