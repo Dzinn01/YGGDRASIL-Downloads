@@ -38,7 +38,7 @@ pendentes.
 
 ## V7.3 — trabalho em andamento
 
-Atualização de 23/10/2026:
+Atualização de 24/10/2026:
 
 - Os Deuses que concedem Dádivas permanecem aliados. Os encontros hostis de Thor,
   Odin e Hel foram retirados da versão em desenvolvimento.
@@ -46,9 +46,15 @@ Atualização de 23/10/2026:
   estão no código da V7.3.
 - Animações externas gratuitas estão sendo adaptadas aos esqueletos existentes.
   Os soldados de espada de Midgard, Helheim e Muspelheim receberam correções de
-  pegada e movimento, testadas numa jornada pelos cinco reinos. Guardas e outros
-  humanoides ainda passam por revisão individual.
+  pegada e movimento. O Huscarl de Midgard agora segura o escudo pela alça e usa
+  preparação, golpe e recuperação próprios, mantendo a espada em guarda.
+  Esses quatro humanoides foram testados numa jornada pelos cinco reinos.
+  Os demais continuam passando por revisão individual.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
 
 Esta página será atualizada quando houver uma nova build validada para download.
+
+[Captura do guarda com escudo durante o combate](previews/V73-Midgard-Shield-20261024.png).
+Essa captura documenta a correção de movimento na versão em desenvolvimento;
+o acabamento antigo do modelo ainda não representa a arte final da V7.3.
