@@ -38,7 +38,7 @@ pendentes.
 
 ## V7.3 — trabalho em andamento
 
-Atualização de 24/10/2026:
+Atualização de 25/10/2026:
 
 - Os Deuses que concedem Dádivas permanecem aliados. Os encontros hostis de Thor,
   Odin e Hel foram retirados da versão em desenvolvimento.
@@ -48,7 +48,12 @@ Atualização de 24/10/2026:
   Os soldados de espada de Midgard, Helheim e Muspelheim receberam correções de
   pegada e movimento. O Huscarl de Midgard agora segura o escudo pela alça e usa
   preparação, golpe e recuperação próprios, mantendo a espada em guarda.
-  Esses quatro humanoides foram testados numa jornada pelos cinco reinos.
+  O arqueiro de Midgard também recebeu animações de arco adaptadas no Blender:
+  mão na empunhadura, corda acompanhando a puxada e flecha saindo da ponta real.
+  O arco gira para fora durante a elevação para liberar espaço para o antebraço.
+  Os testes individuais de movimento, geometria e disparo passaram.
+  A jornada de integração terminou com 57 salas, cinco reinos/armas, 17 compras
+  e vitória; usa bot invencível para validar o fluxo, não dificuldade humana.
   Os demais continuam passando por revisão individual.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
@@ -58,3 +63,9 @@ Esta página será atualizada quando houver uma nova build validada para downloa
 [Captura do guarda com escudo durante o combate](previews/V73-Midgard-Shield-20261024.png).
 Essa captura documenta a correção de movimento na versão em desenvolvimento;
 o acabamento antigo do modelo ainda não representa a arte final da V7.3.
+
+[Arqueiro preparando o disparo](previews/V73-Midgard-Archer-20261025.png).
+Captura real do Godot, na câmera normal, em encontro controlado com IA ativa
+e jogador parado/invencível. Registra o movimento; o acabamento visual do
+personagem continua pendente. Animações: Kevin Iglesias, Human Archer Animations
+FREE (2.0), adaptadas sob licença do autor; reações Quaternius CC0.
