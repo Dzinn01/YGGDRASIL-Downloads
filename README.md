@@ -38,7 +38,7 @@ pendentes.
 
 ## V7.3 — trabalho em andamento
 
-Atualização de 25/10/2026:
+Atualização de 26/10/2026:
 
 - Os Deuses que concedem Dádivas permanecem aliados. Os encontros hostis de Thor,
   Odin e Hel foram retirados da versão em desenvolvimento.
@@ -52,9 +52,16 @@ Atualização de 25/10/2026:
   mão na empunhadura, corda acompanhando a puxada e flecha saindo da ponta real.
   O arco gira para fora durante a elevação para liberar espaço para o antebraço.
   Os testes individuais de movimento, geometria e disparo passaram.
-  A jornada de integração terminou com 57 salas, cinco reinos/armas, 17 compras
+  A jornada mais recente terminou com 57 salas, cinco reinos/armas, 16 compras
   e vitória; usa bot invencível para validar o fluxo, não dificuldade humana.
   Os demais continuam passando por revisão individual.
+- Os escudos antigos de Alfheim, Helheim e Muspelheim foram separados no
+  Blender e passaram a acompanhar a mão, preservando ossos, pesos e texturas.
+  Alfheim usa golpe com escudo; Muspelheim prepara sua descarga de área.
+  O guarda de Helheim foi revisado como asset, sem criar novo encontro.
+  A revisão anatômica dos 35 humanoides e a regressão do arqueiro passaram.
+  Esta é uma correção de rig e movimento; os modelos antigos ainda precisam
+  do acabamento visual solicitado para a V7.3.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
 
@@ -69,3 +76,8 @@ Captura real do Godot, na câmera normal, em encontro controlado com IA ativa
 e jogador parado/invencível. Registra o movimento; o acabamento visual do
 personagem continua pendente. Animações: Kevin Iglesias, Human Archer Animations
 FREE (2.0), adaptadas sob licença do autor; reações Quaternius CC0.
+
+[Guarda de Alfheim em defesa](previews/V73-Alfheim-Guard-20261026.png) ·
+[Guarda de Muspelheim preparando descarga](previews/V73-Muspelheim-Guard-20261026.png).
+Capturas reais do Godot, com câmera normal, IA ativa e encontros isolados para
+inspeção. O jogador fica parado e invencível nesses testes. Não são arte final.
