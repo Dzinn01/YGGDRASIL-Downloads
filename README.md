@@ -38,7 +38,7 @@ pendentes.
 
 ## V7.3 — trabalho em andamento
 
-Atualização de 26/10/2026:
+Atualização de 27/10/2026:
 
 - Os Deuses que concedem Dádivas permanecem aliados. Os encontros hostis de Thor,
   Odin e Hel foram retirados da versão em desenvolvimento.
@@ -62,6 +62,13 @@ Atualização de 26/10/2026:
   A revisão anatômica dos 35 humanoides e a regressão do arqueiro passaram.
   Esta é uma correção de rig e movimento; os modelos antigos ainda precisam
   do acabamento visual solicitado para a V7.3.
+- O Cavaleiro de Cristal de Niflheim também recebeu o escudo preso à mão
+  e animações adaptadas de estocada e golpe com escudo. O rig e as texturas
+  foram preservados e reimportados no Blender. Foram conferidos a anatomia,
+  as transições e os contatos de dano, incluindo os dois golpes do Elite.
+  As regressões das bibliotecas anteriores e do arqueiro passaram. A run
+  completa citada acima é do checkpoint de 26/10; nesta revisão foram
+  executados encontros controlados específicos de Niflheim.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
 
@@ -81,3 +88,8 @@ FREE (2.0), adaptadas sob licença do autor; reações Quaternius CC0.
 [Guarda de Muspelheim preparando descarga](previews/V73-Muspelheim-Guard-20261026.png).
 Capturas reais do Godot, com câmera normal, IA ativa e encontros isolados para
 inspeção. O jogador fica parado e invencível nesses testes. Não são arte final.
+
+[Cavaleiro de Cristal preparando a estocada](previews/V73-Niflheim-Spear-20261027.png) ·
+[Segundo golpe do Elite com escudo](previews/V73-Niflheim-Elite-20261027.png).
+Capturas reais do Godot em Niflheim, câmera normal e IA ativa, com jogador
+parado/invencível. Documentam a correção de movimento, não a arte final.
