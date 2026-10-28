@@ -74,6 +74,15 @@ Atualização de 28/10/2026:
   A nova jornada completa passou por 57 salas, cinco reinos e cinco armas,
   com 16 compras, 650 contatos e vitória. Usa save isolado e bot invencível
   para validar o fluxo; não é aprovação de dificuldade ou arte final.
+- O Vigia de Geada de Niflheim recebeu arco reconstruído no Blender, com
+  empunhadura, corda deformável e flecha física alinhadas. A mão de apoio
+  acompanha a puxada; o arco passa afastado do antebraço e a queda evita
+  a torção brusca do pulso. O ataque comum continua com três projéteis e
+  o Elite com cinco, saindo da ponta da flecha. Os dois foram conferidos
+  com IA ativa e câmera normal. O corpo antigo ainda precisa de acabamento.
+  Uma nova jornada, com essa correção ativa, percorreu 57 salas dos cinco
+  reinos e cinco armas, com 16 compras, 703 contatos e vitória. O teste usa
+  bot invencível e áudio Dummy; não aprova dificuldade humana ou mixagem.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
 
@@ -104,3 +113,10 @@ parado/invencível. Documentam a correção de movimento, não a arte final.
 A primeira captura usa a câmera normal do jogo e IA ativa; a segunda usa
 câmera de inspeção. Animações Quaternius CC0 adaptadas para a lança.
 O acabamento dos modelos antigos continua pendente.
+
+[Vigia de Geada preparando o disparo em Niflheim](previews/V73-Niflheim-Archer-20261028.png) ·
+[Arco e puxada vistos de perto](previews/V73-Niflheim-Bow-20261028.png).
+Capturas reais do Godot: câmera normal e IA ativa na primeira, câmera de
+inspeção na segunda. O arco foi reconstruído no Blender; o corpo ainda é
+o modelo antigo. Animações Kevin Iglesias Human Archer FREE (2.0), adaptadas
+sob licença do autor; reação e morte Quaternius CC0.
