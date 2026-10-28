@@ -38,7 +38,7 @@ pendentes.
 
 ## V7.3 — trabalho em andamento
 
-Atualização de 27/10/2026:
+Atualização de 28/10/2026:
 
 - Os Deuses que concedem Dádivas permanecem aliados. Os encontros hostis de Thor,
   Odin e Hel foram retirados da versão em desenvolvimento.
@@ -52,8 +52,6 @@ Atualização de 27/10/2026:
   mão na empunhadura, corda acompanhando a puxada e flecha saindo da ponta real.
   O arco gira para fora durante a elevação para liberar espaço para o antebraço.
   Os testes individuais de movimento, geometria e disparo passaram.
-  A jornada mais recente terminou com 57 salas, cinco reinos/armas, 16 compras
-  e vitória; usa bot invencível para validar o fluxo, não dificuldade humana.
   Os demais continuam passando por revisão individual.
 - Os escudos antigos de Alfheim, Helheim e Muspelheim foram separados no
   Blender e passaram a acompanhar a mão, preservando ossos, pesos e texturas.
@@ -66,9 +64,16 @@ Atualização de 27/10/2026:
   e animações adaptadas de estocada e golpe com escudo. O rig e as texturas
   foram preservados e reimportados no Blender. Foram conferidos a anatomia,
   as transições e os contatos de dano, incluindo os dois golpes do Elite.
-  As regressões das bibliotecas anteriores e do arqueiro passaram. A run
-  completa citada acima é do checkpoint de 26/10; nesta revisão foram
-  executados encontros controlados específicos de Niflheim.
+  As regressões das bibliotecas anteriores e do arqueiro passaram.
+- Os lanceiros de Alfheim e Niflheim receberam pegada com duas mãos,
+  transições corrigidas e queda com a lança acompanhando o corpo. A inspeção
+  e calibração foram feitas no Blender, preservando os modelos e texturas.
+  O combo do Einherjar de Alfheim agora mostra uma estocada em cada um dos
+  três contatos, mantendo os tempos e danos existentes. O soldado de Niflheim
+  foi revisado como asset, sem acrescentar um encontro novo.
+  A nova jornada completa passou por 57 salas, cinco reinos e cinco armas,
+  com 16 compras, 650 contatos e vitória. Usa save isolado e bot invencível
+  para validar o fluxo; não é aprovação de dificuldade ou arte final.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
 
@@ -93,3 +98,9 @@ inspeção. O jogador fica parado e invencível nesses testes. Não são arte fi
 [Segundo golpe do Elite com escudo](previews/V73-Niflheim-Elite-20261027.png).
 Capturas reais do Godot em Niflheim, câmera normal e IA ativa, com jogador
 parado/invencível. Documentam a correção de movimento, não a arte final.
+
+[Terceira estocada do Einherjar em Alfheim](previews/V73-Alfheim-Combo-20261028.png) ·
+[Pegada vista de perto no Godot](previews/V73-Alfheim-Grip-20261028.png).
+A primeira captura usa a câmera normal do jogo e IA ativa; a segunda usa
+câmera de inspeção. Animações Quaternius CC0 adaptadas para a lança.
+O acabamento dos modelos antigos continua pendente.
