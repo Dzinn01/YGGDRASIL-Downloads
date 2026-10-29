@@ -94,6 +94,14 @@ Atualização de 29/10/2026:
   reinos e cinco armas, com 16 compras e 713 contatos. Usa save isolado,
   bot invencível e áudio Dummy; a validação de dificuldade e mixagem segue
   pendente.
+- O Jötunn de Gelo de Niflheim recebeu pegada de duas mãos, joelhos
+  articulados e pancada voltada ao chão no instante da explosão de gelo.
+  Normal e Elite preservam dano, Armadura e tempo de preparação. Foram usados
+  Blender e animações Quaternius CC0 adaptadas; há seis ações editáveis.
+  A jornada com essa correção percorreu 57 salas, cinco reinos e cinco armas,
+  com 16 compras, 823 contatos e vitória. Usa bot invencível e áudio
+  Dummy, sem aprovar dificuldade humana ou mixagem. O corpo antigo do gigante
+  ainda precisa da reconstrução visual solicitada.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
 
@@ -141,3 +149,10 @@ e IA ativa em encontros controlados; a terceira usa câmera de inspeção.
 O teste da investida começa com o ataque pronto, à distância apropriada.
 Animações Quaternius CC0 adaptadas à anatomia e à maça de duas mãos.
 Os prints mostram a correção de movimento, sem aprovar o acabamento final.
+
+[Jötunn de Gelo no impacto](previews/V73-Niflheim-Giant-20261029.png) ·
+[Variante Elite](previews/V73-Niflheim-Giant-Elite-20261029.png) ·
+[Pegada e postura vistas de lado](previews/V73-Niflheim-Giant-Grip-20261029.png).
+Capturas reais do Godot em segundo plano: câmera normal/IA ativa nas duas
+primeiras e câmera de inspeção na terceira. Documentam movimento e contato
+da arma; não representam o acabamento final dos materiais e do personagem.
