@@ -38,7 +38,7 @@ pendentes.
 
 ## V7.3 — trabalho em andamento
 
-Atualização de 28/10/2026:
+Atualização de 29/10/2026:
 
 - Os Deuses que concedem Dádivas permanecem aliados. Os encontros hostis de Thor,
   Odin e Hel foram retirados da versão em desenvolvimento.
@@ -83,6 +83,17 @@ Atualização de 28/10/2026:
   Uma nova jornada, com essa correção ativa, percorreu 57 salas dos cinco
   reinos e cinco armas, com 16 compras, 703 contatos e vitória. O teste usa
   bot invencível e áudio Dummy; não aprova dificuldade humana ou mixagem.
+- O Berserker de Midgard recebeu pegada de duas mãos com os ombros adaptados
+  ao corpo largo, punhos corrigidos e maça à frente. O combo agora mostra os
+  três golpes que já causavam dano; a investida usa corrida com a arma firme.
+  Foram preservados os danos, tempos, modelo texturizado e esqueleto.
+  Os testes incluíram a variante normal, o Elite, a investida e regressões
+  dos personagens já corrigidos. Há uma cópia Blender com nove animações
+  para edição. O acabamento visual desse personagem ainda não é o final.
+  A jornada com essa alteração ativa chegou à vitória após 57 salas, cinco
+  reinos e cinco armas, com 16 compras e 713 contatos. Usa save isolado,
+  bot invencível e áudio Dummy; a validação de dificuldade e mixagem segue
+  pendente.
 - A reconstrução de todos os modelos, a avaliação final de desempenho e os novos
   executáveis ainda não estão concluídos.
 
@@ -120,3 +131,13 @@ Capturas reais do Godot: câmera normal e IA ativa na primeira, câmera de
 inspeção na segunda. O arco foi reconstruído no Blender; o corpo ainda é
 o modelo antigo. Animações Kevin Iglesias Human Archer FREE (2.0), adaptadas
 sob licença do autor; reação e morte Quaternius CC0.
+
+
+[Terceiro golpe do Berserker Elite](previews/V73-Midgard-Berserker-20261028.png) ·
+[Investida com a maça à frente](previews/V73-Midgard-Charge-20261028.png) ·
+[Preparação vista de lado](previews/V73-Midgard-Heavy-Grip-20261028.png).
+Capturas reais do Godot em segundo plano. As duas primeiras usam câmera normal
+e IA ativa em encontros controlados; a terceira usa câmera de inspeção.
+O teste da investida começa com o ataque pronto, à distância apropriada.
+Animações Quaternius CC0 adaptadas à anatomia e à maça de duas mãos.
+Os prints mostram a correção de movimento, sem aprovar o acabamento final.
